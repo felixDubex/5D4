@@ -1,1 +1,1 @@
-export interface Expense {}e
+export interface Expense {}
